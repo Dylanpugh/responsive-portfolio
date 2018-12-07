@@ -121,6 +121,12 @@ ul{
     
 }
 
+.portfolio{
+    border-style: solid;
+    border-image: 20px;
+    border-color: purple;
+}
+
 @media only screen and (max-width: 980px) {
     
 }
