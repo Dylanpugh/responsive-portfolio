@@ -73,6 +73,8 @@ img{
     border: 15px solid;
     border-color: #dddddd;
     margin-right: 15px;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 nav{
